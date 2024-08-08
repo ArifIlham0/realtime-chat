@@ -38,5 +38,11 @@ This project was built using these technologies.
 ## Getting Started
 
 ```sh
-npx create-expo-app 
+git clone https://github.com/ArifIlham0/realtime-chat.git
+```
+```sh
+git add *
+```
+```sh
+npx expo start
 ```
