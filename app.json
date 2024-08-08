@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "realtime-chat",
+    "name": "Realtime Chat",
     "slug": "realtime-chat",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0D0D0D"
     },
     "ios": {
       "supportsTablet": true
@@ -17,8 +17,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#0D0D0D"
+      },
+      "package": "com.arifilham.realtimechat"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -30,6 +31,11 @@
           "fonts": ["./assets/fonts/LeckerliOne-Regular.ttf"]
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9ca46c7c-13b4-44e7-af05-4b9fcd3080b9"
+      }
+    }
   }
 }
