@@ -31,7 +31,7 @@ This project was built using these technologies.
 
 - React Native
 - Zustand
-- Python
+- Django
 - SQLite
 
 ## Getting Started
