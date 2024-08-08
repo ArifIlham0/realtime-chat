@@ -34,6 +34,8 @@ This project was built using these technologies.
 - Django
 - SQLite
 
+Backend Repo: <a href="https://github.com/ArifIlham0/realtime-chat-backend">https://github.com/ArifIlham0/realtime-chat-backend</a>
+
 ## Getting Started
 
 ```sh
